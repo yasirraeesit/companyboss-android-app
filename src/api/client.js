@@ -2,7 +2,7 @@ import axios from 'axios';
 import * as SecureStore from 'expo-secure-store';
 import { Platform } from 'react-native';
 
-const API_URL = 'http://192.168.1.47:5000/api/';
+const API_URL = 'http://192.168.1.11:5000/api/';
 
 const apiClient = axios.create({
   baseURL: API_URL,

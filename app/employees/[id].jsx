@@ -6,7 +6,7 @@ import {
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { Ionicons } from '@expo/vector-icons';
 
-const API_BASE = 'http://192.168.1.47:5000/api/employees';
+const API_BASE = 'http://192.168.1.11:5000/api/employees';
 
 const DEPT_COLORS = {
   Engineering: '#863ceb',

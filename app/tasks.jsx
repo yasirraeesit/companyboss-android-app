@@ -7,7 +7,7 @@ import { useRouter } from 'expo-router';
 import { Ionicons } from '@expo/vector-icons';
 import { useAuth } from '../src/context/AuthContext';
 
-const API_BASE = 'http://192.168.1.47:5000/api/tasks';
+const API_BASE = 'http://192.168.1.11:5000/api/tasks';
 
 const PRIORITY_COLORS = {
   High: '#ef4444',

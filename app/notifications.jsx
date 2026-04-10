@@ -7,7 +7,7 @@ import { useRouter } from 'expo-router';
 import { Ionicons } from '@expo/vector-icons';
 import { useAuth } from '../src/context/AuthContext';
 
-const API_BASE = 'http://192.168.1.47:5000/api';
+const API_BASE = 'http://192.168.1.11:5000/api';
 
 const TYPE_CONFIG = {
   leave_approved:   { icon: 'checkmark-circle', color: '#10b981', bg: '#dcfce7', label: 'Leave Approved' },
