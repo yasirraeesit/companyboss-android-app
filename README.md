@@ -1,4 +1,4 @@
-# 🐂 CompanyBull: Mobile 
+# 🐂 CompanyBoss: Mobile 
 
 > [!IMPORTANT]
 > **PRODUCTION-READY HR ARCHITECTURE**  
